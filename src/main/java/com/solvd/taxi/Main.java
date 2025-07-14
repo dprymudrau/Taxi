@@ -19,10 +19,4 @@ public class Main {
         //Count amount of special words inside the file.
         // as the result provide new file with information implement using StringUtils and FileUtils
     }
-
-    public void countWord(String word, String filePath) {
-       // read file, and count
-        File file = new File("");
-
-    }
 }
