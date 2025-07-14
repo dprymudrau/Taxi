@@ -1,11 +1,8 @@
 package com.solvd.taxi;
 
-import com.solvd.taxi.model.Env;
 import com.solvd.taxi.model.User;
 
 import java.io.File;
-import java.io.InputStream;
-import java.io.Writer;
 
 public class Main {
 
